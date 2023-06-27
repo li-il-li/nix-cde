@@ -1,6 +1,6 @@
 # Nix-CDE
 
-_Nix-CDE_ (Nix-based Common Development Envrionemnt) provides a reproducible
+_Nix-CDE_ (Nix-based Common Development Environment) provides a reproducible
 development environment that abstracts away Nix rough edges through the use
 of NixOS modules.
 
